@@ -10,7 +10,7 @@ https://github.com/DigitalPhonetics/IMS-Toucan
 
 ## Audio Samples
 
-- <div style="display:inline;"> Quellen hattest du ihm, hattest dem </div> <div style="color:darkgreen; display:inline; font-weight: bold;" > Flüchtigen <br> Kühle Schatten</div><div style="display:inline;"> geschenkt</div>
+- <div style="display:inline;"> »Quellen hattest du ihm, hattest dem </div> <div style="color:darkgreen; display:inline; font-weight: bold;" > Flüchtigen <br> Kühle Schatten</div><div style="display:inline;"> geschenkt« <br>  <br> </div>
 
     <table style='width: 100%;'>
         <tr>
@@ -25,7 +25,7 @@ https://github.com/DigitalPhonetics/IMS-Toucan
         </tr>
     </table>
 
-- <div style="display:inline;"> Und die Gestade</div> <div style="color:darkgreen; display:inline; font-weight: bold;" > sahen <br> All</div><div style="display:inline;"> ihm nach</div>
+- <div style="display:inline;"> »Und die Gestade</div> <div style="color:darkgreen; display:inline; font-weight: bold;" > sahen <br> All</div><div style="display:inline;"> ihm nach« <br>  <br> </div>
 
     <table style='width: 100%;'>
         <tr>
@@ -40,7 +40,7 @@ https://github.com/DigitalPhonetics/IMS-Toucan
         </tr>
     </table>
 
-- <div style="display:inline;"> Lass endlich Vater! offenen Aug's mich </div> <div style="color:darkgreen; display:inline; font-weight: bold;" > dir <br> Begegnen</div><div style="display:inline;">!</div>
+- <div style="display:inline;"> »Lass endlich Vater! offenen Aug's mich </div> <div style="color:darkgreen; display:inline; font-weight: bold;" > dir <br> Begegnen</div><div style="display:inline;">!« <br>  <br> </div>
 
     <table style='width: 100%;'>
         <tr>
@@ -55,7 +55,7 @@ https://github.com/DigitalPhonetics/IMS-Toucan
         </tr>
     </table>
 
-- <div style="display:inline;"> Hast denn du nicht zuerst den</div> <div style="color:darkgreen; display:inline; font-weight: bold;" > Geist <br> Mit deinem Strahl</div><div style="display:inline;"> aus mir geweckt?</div>
+- <div style="display:inline;"> »Hast denn du nicht zuerst den</div> <div style="color:darkgreen; display:inline; font-weight: bold;" > Geist <br> Mit deinem Strahl</div><div style="display:inline;"> aus mir geweckt?« <br>  <br> </div>
 
     <table style='width: 100%;'>
         <tr>
