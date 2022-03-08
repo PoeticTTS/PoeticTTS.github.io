@@ -1,8 +1,3 @@
-<img align="center" src="resources/toucan.png" style="  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;" />
-
 
 ## Official Code
 
