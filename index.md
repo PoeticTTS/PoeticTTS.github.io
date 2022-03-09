@@ -10,7 +10,7 @@
 
 ## What's this?
 
-We showcase a few samples of German poetry with different pronunciations. They differ in their realization of enjambments. The realizations of the enjembments can be edited in a fine-grained way using our human-in-the-loop text-to-speech. Being able to edit specific realizations of phenomena without affecting anything else is an invaluable tool for literary studies.
+We showcase a few samples of German poetry with different pronunciations. They differ in their realization of enjambments. The realizations of the enjambments can be edited in a fine-grained way using our human-in-the-loop text-to-speech. Being able to edit specific realizations of phenomena without affecting anything else is an invaluable tool for literary studies.
 
 **What's an enjambment?** An enjambment occurs when the syntactic construction continues across the line break. [(click here to learn more)](https://en.wikipedia.org/wiki/Enjambment)
 
@@ -75,3 +75,9 @@ We showcase a few samples of German poetry with different pronunciations. They d
             <td><audio controls="" ><source src="resources/s5_p2_base1_pros_2.wav" type="audio/wav"></audio></td></tr><tr>
         </tr>
     </table>
+    
+    
+<br><br><br>
+All samples shown here are synthesized. The voice used for generating the samples is based on Hanns Zischler's recordings which come with the following copyright notice:
+
+*Thomas Ladenburger (Ton) und Hanns Zischler (Sprecher) im Auftrag des Deutschen Literaturarchivs Marbach (2020)*
