@@ -8,9 +8,9 @@
 
 https://github.com/DigitalPhonetics/IMS-Toucan
 
-## What can you hear here?
+## What's this?
 
-We showcase a few samples of poetry with different pronunciations. They differ in their realization of enjambments. The realizations of the enjembments can be edited in a fine-grained way using our human-in-the-loop text-to-speech.
+We showcase a few samples of German poetry with different pronunciations. They differ in their realization of enjambments. The realizations of the enjembments can be edited in a fine-grained way using our human-in-the-loop text-to-speech. Being able to edit specific realizations of phenomena without affecting anything else is an invaluable tool for literary studies.
 
 [(link to Wikipedia explaining what enjambments are)](https://en.wikipedia.org/wiki/Enjambment)
 
