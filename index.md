@@ -6,7 +6,7 @@
 
 ## Official Code
 
-https://github.com/DigitalPhonetics/IMS-Toucan
+[https://github.com/DigitalPhonetics/IMS-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan)
 
 ## What's this?
 
