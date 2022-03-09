@@ -10,7 +10,9 @@ https://github.com/DigitalPhonetics/IMS-Toucan
 
 ## What can you hear here?
 
-We showcase a few samples of poetry with different pronunciations. They differ in their realization of enjambments. [(link to Wikipedia explaining enjambments)](https://en.wikipedia.org/wiki/Enjambment) The realizations of the enjembments can be edited in a fine-grained way using our human-in-the-loop text-to-speech.
+We showcase a few samples of poetry with different pronunciations. They differ in their realization of enjambments. The realizations of the enjembments can be edited in a fine-grained way using our human-in-the-loop text-to-speech.
+
+[(link to Wikipedia explaining what enjambments are)](https://en.wikipedia.org/wiki/Enjambment)
 
 ## Audio Samples
 
