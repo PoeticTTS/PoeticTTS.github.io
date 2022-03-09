@@ -12,8 +12,7 @@ https://github.com/DigitalPhonetics/IMS-Toucan
 
 We showcase a few samples of German poetry with different pronunciations. They differ in their realization of enjambments. The realizations of the enjembments can be edited in a fine-grained way using our human-in-the-loop text-to-speech. Being able to edit specific realizations of phenomena without affecting anything else is an invaluable tool for literary studies.
 
-#### What's an enjambment? 
-An enjambment occurs when the syntactic construction continues across the line break. [(click here to learn more)](https://en.wikipedia.org/wiki/Enjambment)
+**What's an enjambment?** An enjambment occurs when the syntactic construction continues across the line break. [(click here to learn more)](https://en.wikipedia.org/wiki/Enjambment)
 
 ## Audio Samples
 
