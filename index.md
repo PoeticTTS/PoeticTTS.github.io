@@ -8,6 +8,10 @@
 
 [https://github.com/DigitalPhonetics/IMS-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan)
 
+## Interactive Demo
+
+[Hosted on Huggingface Spaces](https://huggingface.co/spaces/Flux9665/PoeticTTS)
+
 ## What's this?
 
 We showcase a few samples of German poetry with different pronunciations. They differ in their realization of enjambments. The realizations of the enjambments can be edited in a fine-grained way using our human-in-the-loop text-to-speech. Being able to edit specific realizations of phenomena without affecting anything else is an invaluable tool for literary studies.
