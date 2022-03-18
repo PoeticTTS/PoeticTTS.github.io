@@ -10,7 +10,7 @@
 
 ## Interactive Demo
 
-[Hosted on Huggingface Spaces](https://huggingface.co/spaces/Flux9665/PoeticTTS)
+[Hosted on Huggingface🤗 Spaces](https://huggingface.co/spaces/Flux9665/PoeticTTS)
 
 ## What's this?
 
