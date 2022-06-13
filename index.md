@@ -28,14 +28,14 @@ We showcase a few samples of German poetry with different pronunciations. They d
             <td bgcolor="#e4ffe3"><audio controls="" ><source src="resources/Quellen_Zischler.wav" type="audio/wav"></audio></td></tr><tr>
             <td bgcolor="#e4ffe3">Human Reference B with emphasized enjambment</td>
             <td bgcolor="#e4ffe3"><audio controls="" ><source src="resources/Quellen_Mönckeberg.wav" type="audio/wav"></audio></td></tr><tr>
-            <td bgcolor="#e5e3ff">Synthesized Reference A with unemphasized enjambment</td>
-            <td bgcolor="#e5e3ff"><audio controls="" ><source src="resources/s2_p1_ref2.wav" type="audio/wav"></audio></td></tr><tr>
-            <td bgcolor="#e5e3ff">Synthesized Reference B with emphasized enjambment</td>
-            <td bgcolor="#e5e3ff"><audio controls="" ><source src="resources/s2_p1_ref1.wav" type="audio/wav"></audio></td></tr><tr>
-            <td bgcolor="#e5e3ff">Realization A edited to have B's emphasized enjambment</td>
-            <td bgcolor="#e5e3ff"><audio controls="" ><source src="resources/s2_p1_base2_pros_1.wav" type="audio/wav"></audio></td></tr><tr>
-            <td bgcolor="#e5e3ff">Realization B edited to have A's unemphasized enjambent</td>
-            <td bgcolor="#e5e3ff"><audio controls="" ><source src="resources/s2_p1_base1_pros_2.wav" type="audio/wav"></audio></td></tr><tr>
+            <td bgcolor="#cfe4ff">Synthesized Reference A with unemphasized enjambment</td>
+            <td bgcolor="#cfe4ff"><audio controls="" ><source src="resources/s2_p1_ref2.wav" type="audio/wav"></audio></td></tr><tr>
+            <td bgcolor="#cfe4ff">Synthesized Reference B with emphasized enjambment</td>
+            <td bgcolor="#cfe4ff"><audio controls="" ><source src="resources/s2_p1_ref1.wav" type="audio/wav"></audio></td></tr><tr>
+            <td bgcolor="#cfe4ff">Realization A edited to have B's emphasized enjambment</td>
+            <td bgcolor="#cfe4ff"><audio controls="" ><source src="resources/s2_p1_base2_pros_1.wav" type="audio/wav"></audio></td></tr><tr>
+            <td bgcolor="#cfe4ff">Realization B edited to have A's unemphasized enjambent</td>
+            <td bgcolor="#cfe4ff"><audio controls="" ><source src="resources/s2_p1_base1_pros_2.wav" type="audio/wav"></audio></td></tr><tr>
         </tr>
     </table>
 
@@ -47,14 +47,14 @@ We showcase a few samples of German poetry with different pronunciations. They d
             <td bgcolor="#e4ffe3"><audio controls="" ><source src="resources/Gestade_Zischler.wav" type="audio/wav"></audio></td></tr><tr>
             <td bgcolor="#e4ffe3">Human Reference B with emphasized enjambment</td>
             <td bgcolor="#e4ffe3"><audio controls="" ><source src="resources/Gestade_Mönckeberg.wav" type="audio/wav"></audio></td></tr><tr>
-            <td bgcolor="#e5e3ff">Synthesized Reference A with unemphasized enjambment</td>
-            <td bgcolor="#e5e3ff"><audio controls="" ><source src="resources/s2_p2_ref2.wav" type="audio/wav"></audio></td></tr><tr>
-            <td bgcolor="#e5e3ff">Synthesized Reference B with emphasized enjambment</td>
-            <td bgcolor="#e5e3ff"><audio controls="" ><source src="resources/s2_p2_ref1.wav" type="audio/wav"></audio></td></tr><tr>
-            <td bgcolor="#e5e3ff">Realization A edited to have B's emphasized enjambment</td>
-            <td bgcolor="#e5e3ff"><audio controls="" ><source src="resources/s2_p2_base2_pros_1.wav" type="audio/wav"></audio></td></tr><tr>
-            <td bgcolor="#e5e3ff">Realization B edited to have A's unemphasized enjambent</td>
-            <td bgcolor="#e5e3ff"><audio controls="" ><source src="resources/s2_p2_base1_pros_2.wav" type="audio/wav"></audio></td></tr><tr>
+            <td bgcolor="#cfe4ff">Synthesized Reference A with unemphasized enjambment</td>
+            <td bgcolor="#cfe4ff"><audio controls="" ><source src="resources/s2_p2_ref2.wav" type="audio/wav"></audio></td></tr><tr>
+            <td bgcolor="#cfe4ff">Synthesized Reference B with emphasized enjambment</td>
+            <td bgcolor="#cfe4ff"><audio controls="" ><source src="resources/s2_p2_ref1.wav" type="audio/wav"></audio></td></tr><tr>
+            <td bgcolor="#cfe4ff">Realization A edited to have B's emphasized enjambment</td>
+            <td bgcolor="#cfe4ff"><audio controls="" ><source src="resources/s2_p2_base2_pros_1.wav" type="audio/wav"></audio></td></tr><tr>
+            <td bgcolor="#cfe4ff">Realization B edited to have A's unemphasized enjambent</td>
+            <td bgcolor="#cfe4ff"><audio controls="" ><source src="resources/s2_p2_base1_pros_2.wav" type="audio/wav"></audio></td></tr><tr>
         </tr>
     </table>
 
@@ -66,14 +66,14 @@ We showcase a few samples of German poetry with different pronunciations. They d
             <td bgcolor="#e4ffe3"><audio controls="" ><source src="resources/Vater_Quadflieg.wav" type="audio/wav"></audio></td></tr><tr>
             <td bgcolor="#e4ffe3">Human Reference B with emphasized enjambment</td>
             <td bgcolor="#e4ffe3"><audio controls="" ><source src="resources/Vater_Mönckeberg.wav" type="audio/wav"></audio></td></tr><tr>
-            <td bgcolor="#e5e3ff">Synthesized Reference A with unemphasized enjambment</td>
-            <td bgcolor="#e5e3ff"><audio controls="" ><source src="resources/s5_p1_ref2.wav" type="audio/wav"></audio></td></tr><tr>
-            <td bgcolor="#e5e3ff">Synthesized Reference B with emphasized enjambment</td>
-            <td bgcolor="#e5e3ff"><audio controls="" ><source src="resources/s5_p1_ref1.wav" type="audio/wav"></audio></td></tr><tr>
-            <td bgcolor="#e5e3ff">Realization A edited to have B's emphasized enjambment</td>
-            <td bgcolor="#e5e3ff"><audio controls="" ><source src="resources/s5_p1_base2_pros_1.wav" type="audio/wav"></audio></td></tr><tr>
-            <td bgcolor="#e5e3ff">Realization B edited to have A's unemphasized enjambent</td>
-            <td bgcolor="#e5e3ff"><audio controls="" ><source src="resources/s5_p1_base1_pros_2.wav" type="audio/wav"></audio></td></tr><tr>
+            <td bgcolor="#cfe4ff">Synthesized Reference A with unemphasized enjambment</td>
+            <td bgcolor="#cfe4ff"><audio controls="" ><source src="resources/s5_p1_ref2.wav" type="audio/wav"></audio></td></tr><tr>
+            <td bgcolor="#cfe4ff">Synthesized Reference B with emphasized enjambment</td>
+            <td bgcolor="#cfe4ff"><audio controls="" ><source src="resources/s5_p1_ref1.wav" type="audio/wav"></audio></td></tr><tr>
+            <td bgcolor="#cfe4ff">Realization A edited to have B's emphasized enjambment</td>
+            <td bgcolor="#cfe4ff"><audio controls="" ><source src="resources/s5_p1_base2_pros_1.wav" type="audio/wav"></audio></td></tr><tr>
+            <td bgcolor="#cfe4ff">Realization B edited to have A's unemphasized enjambent</td>
+            <td bgcolor="#cfe4ff"><audio controls="" ><source src="resources/s5_p1_base1_pros_2.wav" type="audio/wav"></audio></td></tr><tr>
         </tr>
     </table>
 
@@ -85,19 +85,19 @@ We showcase a few samples of German poetry with different pronunciations. They d
             <td bgcolor="#e4ffe3"><audio controls="" ><source src="resources/Hast_Quadflieg.wav" type="audio/wav"></audio></td></tr><tr>
             <td bgcolor="#e4ffe3">Human Reference B with emphasized enjambment</td>
             <td bgcolor="#e4ffe3"><audio controls="" ><source src="resources/Hast_Mönckeberg.wav" type="audio/wav"></audio></td></tr><tr>
-            <td bgcolor="#e5e3ff">Synthesized Reference A with unemphasized enjambment</td>
-            <td bgcolor="#e5e3ff"><audio controls="" ><source src="resources/s5_p2_ref2.wav" type="audio/wav"></audio></td></tr><tr>
-            <td bgcolor="#e5e3ff">Synthesized Reference B with emphasized enjambment</td>
-            <td bgcolor="#e5e3ff"><audio controls="" ><source src="resources/s5_p2_ref1.wav" type="audio/wav"></audio></td></tr><tr>
-            <td bgcolor="#e5e3ff">Realization A edited to have B's emphasized enjambment</td>
-            <td bgcolor="#e5e3ff"><audio controls="" ><source src="resources/s5_p2_base2_pros_1.wav" type="audio/wav"></audio></td></tr><tr>
-            <td bgcolor="#e5e3ff">Realization B edited to have A's unemphasized enjambent</td>
-            <td bgcolor="#e5e3ff"><audio controls="" ><source src="resources/s5_p2_base1_pros_2.wav" type="audio/wav"></audio></td></tr><tr>
+            <td bgcolor="#cfe4ff">Synthesized Reference A with unemphasized enjambment</td>
+            <td bgcolor="#cfe4ff"><audio controls="" ><source src="resources/s5_p2_ref2.wav" type="audio/wav"></audio></td></tr><tr>
+            <td bgcolor="#cfe4ff">Synthesized Reference B with emphasized enjambment</td>
+            <td bgcolor="#cfe4ff"><audio controls="" ><source src="resources/s5_p2_ref1.wav" type="audio/wav"></audio></td></tr><tr>
+            <td bgcolor="#cfe4ff">Realization A edited to have B's emphasized enjambment</td>
+            <td bgcolor="#cfe4ff"><audio controls="" ><source src="resources/s5_p2_base2_pros_1.wav" type="audio/wav"></audio></td></tr><tr>
+            <td bgcolor="#cfe4ff">Realization B edited to have A's unemphasized enjambent</td>
+            <td bgcolor="#cfe4ff"><audio controls="" ><source src="resources/s5_p2_base1_pros_2.wav" type="audio/wav"></audio></td></tr><tr>
         </tr>
     </table>
     
     
 <br><br><br>
-<div bgcolor="#e5e3ff"> All samples shown with this background are synthetic.</div> The voice used for generating the samples is based on Hanns Zischler's recordings which come with the following copyright notice:
+All samples shown with a blueish background are synthetic. The voice used for generating the samples is based on Hanns Zischler's recordings which come with the following copyright notice:
 
 *Florian Michel (Ton) und Hanns Zischler (Sprecher) im Auftrag des Deutschen Literaturarchivs Marbach (2020)*
