@@ -24,9 +24,13 @@ We showcase a few samples of German poetry with different pronunciations. They d
 
     <table style='width: 100%;'>
         <tr>
-            <td>Reference A with unemphasized enjambment</td>
+            <td>Reference Speech A with unemphasized enjambment</td>
+            <td><audio controls="" ><source src="resources/Quellen_Zischler.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>Reference Speech B with emphasized enjambment</td>
+            <td><audio controls="" ><source src="resources/Quellen_Mönckeberg.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>Reference Synthesis A with unemphasized enjambment</td>
             <td><audio controls="" ><source src="resources/s2_p1_ref2.wav" type="audio/wav"></audio></td></tr><tr>
-            <td>Reference B with emphasized enjambment</td>
+            <td>Reference Synthesis B with emphasized enjambment</td>
             <td><audio controls="" ><source src="resources/s2_p1_ref1.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Realization A edited to have B's emphasized enjambment</td>
             <td><audio controls="" ><source src="resources/s2_p1_base2_pros_1.wav" type="audio/wav"></audio></td></tr><tr>
@@ -39,6 +43,10 @@ We showcase a few samples of German poetry with different pronunciations. They d
 
     <table style='width: 100%;'>
         <tr>
+            <td>Reference Speech A with unemphasized enjambment</td>
+            <td><audio controls="" ><source src="resources/Gestade_Zischler.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>Reference Speech B with emphasized enjambment</td>
+            <td><audio controls="" ><source src="resources/Gestade_Mönckeberg.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Reference A with unemphasized enjambment</td>
             <td><audio controls="" ><source src="resources/s2_p2_ref2.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Reference B with emphasized enjambment</td>
@@ -54,6 +62,10 @@ We showcase a few samples of German poetry with different pronunciations. They d
 
     <table style='width: 100%;'>
         <tr>
+            <td>Reference Speech A with unemphasized enjambment</td>
+            <td><audio controls="" ><source src="resources/Vater_Quadflieg.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>Reference Speech B with emphasized enjambment</td>
+            <td><audio controls="" ><source src="resources/Vater_Mönckeberg.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Reference A with unemphasized enjambment</td>
             <td><audio controls="" ><source src="resources/s5_p1_ref2.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Reference B with emphasized enjambment</td>
@@ -69,6 +81,10 @@ We showcase a few samples of German poetry with different pronunciations. They d
 
     <table style='width: 100%;'>
         <tr>
+            <td>Reference Speech A with unemphasized enjambment</td>
+            <td><audio controls="" ><source src="resources/Hast_Quadflieg.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>Reference Speech B with emphasized enjambment</td>
+            <td><audio controls="" ><source src="resources/Hast_Mönckeberg.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Reference A with unemphasized enjambment</td>
             <td><audio controls="" ><source src="resources/s5_p2_ref2.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Reference B with emphasized enjambment</td>
