@@ -7,9 +7,16 @@
   max-width: 80rem;
 }
 
-table, td {
+table {
     table-layout: fixed;
     background-color: transparent;
+    border-collapse: collapse;
+    padding: 2px 2px;
+    text-align: center;
+}
+
+td {
+    table-layout: fixed;
     border-collapse: collapse;
     padding: 2px 2px;
     text-align: center;
